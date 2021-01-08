@@ -1,0 +1,13 @@
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.exe
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.deps.json
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.runtimeconfig.json
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.runtimeconfig.dev.json
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.dll
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\bin\Debug\netcoreapp3.1\projeto.pdb
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.AssemblyInfo.cs
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.dll
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.pdb
+C:\Users\Danil\Desktop\site f\img\projeto\projeto\obj\Debug\netcoreapp3.1\projeto.genruntimeconfig.cache
